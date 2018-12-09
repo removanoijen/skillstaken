@@ -4,6 +4,8 @@ body {
     background-color: #ccc;
     color: #000;
     background-image: url(../images/patroon.png);
+    background-image: url(../images/patroon.png.png);
+    background-repeat: repeat;
 }
 
 div {

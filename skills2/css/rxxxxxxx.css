@@ -4,6 +4,8 @@ body {
     font-family: tahoma, sans-serif;
     background-color: lightcyan;
     color: black;
+    background-image: url(../images/patroon.png.png);
+    background-repeat: repeat;
 }
 
 table,
